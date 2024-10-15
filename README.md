@@ -12,13 +12,20 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zouhairdev49&label=Profile%20views&color=0e75b6&style=flat" alt="zouhairdev49" /> </p>
 
-- 📫 **How to reach me:** zouhaireddoubaji497@gmail.com  
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Twitter" width="40" height="40"/></a>
+  <a href="mailto:zouhaireddoubaji497@gmail.com" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin/zouhair-eddoubaji-59a046290" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Twitter" width="40" height="40"/>
+  </a>
 </p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -63,10 +70,4 @@ You can click the Preview link to take a look at your changes.
   </a> 
 </p>
 
-<h3 align="center">Github Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zouhairdev49&show_icons=true&locale=en&layout=compact" alt="zouhairdev49" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zouhairdev49&show_icons=true&locale=en" alt="zouhairdev49" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zouhairdev49&" alt="zouhairdev49" /></p>
 
