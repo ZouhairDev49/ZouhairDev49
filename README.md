@@ -1,4 +1,5 @@
-![Banner]([https://your-image-link.com](https://charitydigital.org.uk/topics/ten-basic-principles-of-coding-9002#gallery-1)  <!-- Add a digital development banner image here -->
+
+![Banner]((https://charitydigital.org.uk/topics/ten-basic-principles-of-coding-9002#gallery-1)) 
 
 👋 Hi, I’m @Zouhair Eddoubaji  
 👀 I’m interested in web development  
@@ -7,6 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Zouhair Eddoubaji</h1>
 <h3 align="center">A passionate Full Stack Developer from Morocco</h3>
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zouhairdev49&label=Profile%20views&color=0e75b6&style=flat" alt="zouhairdev49" /> </p>
