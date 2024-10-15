@@ -4,14 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Zouhair+Eddoubaji!;" />
 </h1>
 
-👋 Hi, I’m @Zouhair Eddoubaji  
-👀 I’m interested in web development  
-🌱 I’m currently learning Full-Stack Development  
-💞️ I’m looking to collaborate on web development projects that challenge my creativity and technical skills, especially those involving scalable web applications.
-
-<h1 align="center">Hi 👋, I'm Zouhair Eddoubaji</h1>
 <h3 align="center">A passionate Full Stack Developer from Morocco</h3>
 
+
+<span align="center">👀 I’m interested in web development  </span>
+<span align="center">🌱 I’m currently learning Full-Stack Development  </span>
+<span align="center">💞️ I’m looking to collaborate on web development projects that challenge my creativity and technical skills, especially those involving scalable web applications.</span>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zouhairdev49&label=Profile%20views&color=0e75b6&style=flat" alt="zouhairdev49" /> </p>
