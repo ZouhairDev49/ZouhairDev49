@@ -1,15 +1,13 @@
-- 👋 Hi, I’m @Zouhair Eddoubaji  
-- 👀 I’m interested in web development  
-- 🌱 I’m currently learning Full-Stack Development  
-- 💞️ I’m looking to collaborate on web development projects that challenge my creativity and technical skills, especially those involving scalable web applications.
+![Banner]([https://your-image-link.com](https://charitydigital.org.uk/topics/ten-basic-principles-of-coding-9002#gallery-1)  <!-- Add a digital development banner image here -->
 
-<!---
-ZouhairDev49/ZouhairDev49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Zouhair Eddoubaji  
+👀 I’m interested in web development  
+🌱 I’m currently learning Full-Stack Development  
+💞️ I’m looking to collaborate on web development projects that challenge my creativity and technical skills, especially those involving scalable web applications.
+
 <h1 align="center">Hi 👋, I'm Zouhair Eddoubaji</h1>
-<marquee>Hi 👋, I'm Zouhair Eddoubaji</marquee>
-<h3 align="center">A passionate full stack Developer from Morocco</h3>
+<h3 align="center">A passionate Full Stack Developer from Morocco</h3>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zouhairdev49&label=Profile%20views&color=0e75b6&style=flat" alt="zouhairdev49" /> </p>
 
